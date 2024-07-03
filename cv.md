@@ -38,7 +38,8 @@
 
 ## **Code examples:**
 
-```console.log("Hello Friends")
+```javascript
+console.log('Hello Friends')
 ```
 
 ---
