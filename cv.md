@@ -51,12 +51,12 @@
 
 ## **Education:**
 
-
+Surgut State University, Teacher of technological disciplines.
 
 ---
 
 ## **Level of English:**
 
-  
+  A2 - B1 with a dictionary
 
 ---
