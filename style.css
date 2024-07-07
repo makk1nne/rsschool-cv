@@ -1,0 +1,29 @@
+body {
+    font-family: "Roboto", sans-serif;
+    min-height: 100vh;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.cv_header {
+    border: 1px solid red;
+}
+
+.cv_main {
+    border: 1px solid blue;
+}
+
+.cv_footer {
+    border: 1px solid yellowgreen;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
