@@ -1,1 +1,2 @@
 # rsschool-cv
+https://makk1nne.github.io/rsschool-cv/cv
