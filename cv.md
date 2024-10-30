@@ -46,10 +46,18 @@ console.log('Hello Friends')
 
 ## **Work experience:**
 
+I have no work experience in programming.  I'm just learning.
+
 ---
 
 ## **Education:**
 
+Surgut State University, Teacher of technological disciplines.
+
 ---
 
 ## **Level of English:**
+
+ A2 - B1 with a dictionary
+
+---
